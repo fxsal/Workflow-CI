@@ -1,0 +1,7 @@
+name: CI-Weather-Project
+
+entry_points:
+  main:
+    command: "python modelling.py" 
+
+conda_env: conda.yaml
